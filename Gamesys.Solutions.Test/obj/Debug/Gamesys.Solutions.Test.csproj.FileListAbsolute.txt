@@ -1,0 +1,13 @@
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\bin\Debug\Gamesys.Solutions.Test.dll
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\bin\Debug\Gamesys.Solutions.Test.pdb
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\bin\Debug\Gamesys.Solutions.dll
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\bin\Debug\nunit.core.dll
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\bin\Debug\nunit.framework.dll
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\bin\Debug\nunit.util.dll
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\bin\Debug\Gamesys.Solutions.pdb
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\bin\Debug\nunit.framework.xml
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\obj\Debug\Gamesys.Solutions.Test.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\obj\Debug\Gamesys.Solutions.Test.dll
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions.Test\obj\Debug\Gamesys.Solutions.Test.pdb

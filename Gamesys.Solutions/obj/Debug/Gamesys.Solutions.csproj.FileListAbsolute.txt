@@ -1,0 +1,5 @@
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions\bin\Debug\Gamesys.Solutions.dll
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions\bin\Debug\Gamesys.Solutions.pdb
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions\obj\Debug\Gamesys.Solutions.dll
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions\obj\Debug\Gamesys.Solutions.pdb
+C:\Users\Joel\Desktop\Gamesys\Gamesys.Solutions\obj\Debug\Gamesys.Solutions.csprojResolveAssemblyReference.cache
