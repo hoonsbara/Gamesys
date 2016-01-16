@@ -53,13 +53,11 @@ namespace Gamesys.Solutions
             {
                 index = 0;
             }
-            else
+            else if (Math.Abs(approximateNumber - series[index - 1]) <
+                     Math.Abs(approximateNumber - series[index]))
             {
-                if (Math.Abs(approximateNumber - series[index - 1]) <
-                    Math.Abs(approximateNumber - series[index]))
-                {
-                    index = index - 1;
-                }
+                index = index - 1;
+
             }
             return series[index];
         }

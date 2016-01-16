@@ -12,14 +12,17 @@ namespace Gamesys.Solutions
         {
             return value + action;
         }
+
         public static double Minus(this double value, double action)
         {
             return value - action;
         }
+
         public static double Multiple(this double value, double action)
         {
             return value * action;
         }
+
         public static double Divide(this double value, double action)
         {
             if (CheckIfAnyZero(value, action))
